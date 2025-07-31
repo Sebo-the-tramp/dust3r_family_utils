@@ -34,8 +34,6 @@ will print any major errors or files not found to the console and save the outpu
 
 """
 
-
-
 # Standard Library Imports
 import os
 import sys
